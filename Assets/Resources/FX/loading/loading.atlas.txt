@@ -1,0 +1,69 @@
+
+loading.png
+size: 639,411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chocolate
+  rotate: false
+  xy: 448, 100
+  size: 121, 157
+  orig: 121, 157
+  offset: 0, 0
+  index: -1
+panda_0000_1
+  rotate: false
+  xy: 448, 259
+  size: 131, 150
+  orig: 131, 150
+  offset: 0, 0
+  index: -1
+panda_0001_2
+  rotate: true
+  xy: 581, 267
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+panda_0002_3
+  rotate: false
+  xy: 571, 136
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+panda_0003_4
+  rotate: false
+  xy: 448, 20
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+panda_0004_5
+  rotate: false
+  xy: 571, 189
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+panda_0005_6
+  rotate: false
+  xy: 2, 2
+  size: 444, 407
+  orig: 444, 407
+  offset: 0, 0
+  index: -1
+panda_0005_6_1
+  rotate: true
+  xy: 581, 326
+  size: 83, 39
+  orig: 444, 407
+  offset: 250, 156
+  index: -1
+quan
+  rotate: false
+  xy: 524, 22
+  size: 76, 76
+  orig: 100, 100
+  offset: 12, 12
+  index: -1

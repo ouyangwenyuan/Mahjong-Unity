@@ -1,0 +1,111 @@
+
+scene2_fish.png
+size: 1238,753
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bowen
+  rotate: true
+  xy: 1194, 368
+  size: 187, 35
+  orig: 187, 36
+  offset: 0, 0
+  index: -1
+penquan_0000_1
+  rotate: true
+  xy: 1064, 190
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+penquan_0001_2
+  rotate: false
+  xy: 1064, 130
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+penquan_0002_3
+  rotate: true
+  xy: 1064, 142
+  size: 32, 9
+  orig: 32, 9
+  offset: 0, 0
+  index: -1
+penquan_0003_4
+  rotate: false
+  xy: 1064, 124
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+penquan_0004_5
+  rotate: true
+  xy: 1064, 176
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+penquan_0005_gai
+  rotate: true
+  xy: 1064, 205
+  size: 138, 46
+  orig: 138, 46
+  offset: 0, 0
+  index: -1
+penquan_0006_6
+  rotate: true
+  xy: 1054, 2
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+penquan_0007_zhu
+  rotate: false
+  xy: 1194, 557
+  size: 42, 194
+  orig: 42, 194
+  offset: 0, 0
+  index: -1
+scene2_0000_yu1
+  rotate: true
+  xy: 1121, 4
+  size: 747, 71
+  orig: 903, 71
+  offset: 156, 0
+  index: -1
+scene2_0001_yu2
+  rotate: false
+  xy: 2, 4
+  size: 928, 339
+  orig: 2694, 1027
+  offset: 510, 307
+  index: -1
+scene2_0002_yu3
+  rotate: true
+  xy: 932, 27
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+scene2_0002_yu3_2
+  rotate: true
+  xy: 993, 27
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+scene2_0003_yu4
+  rotate: true
+  xy: 932, 85
+  size: 258, 130
+  orig: 258, 130
+  offset: 0, 0
+  index: -1
+scene2_0004_yu5
+  rotate: false
+  xy: 2, 345
+  size: 1117, 406
+  orig: 1118, 406
+  offset: 0, 0
+  index: -1

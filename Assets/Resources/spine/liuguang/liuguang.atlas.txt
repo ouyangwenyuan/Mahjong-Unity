@@ -1,0 +1,13 @@
+
+liuguang.png
+size: 85,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijiguang_001
+  rotate: false
+  xy: 2, 2
+  size: 81, 280
+  orig: 81, 280
+  offset: 0, 0
+  index: -1

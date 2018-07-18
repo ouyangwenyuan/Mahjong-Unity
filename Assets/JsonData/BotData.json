@@ -1,0 +1,10 @@
+{
+	"data":[
+	{"name":"Jim","score":10},
+	{"name":"Marry","score":20},
+	{"name":"Jerry","score":30},
+	{"name":"Sandy","score":40},
+	{"name":"Tom","score":50},
+	{"name":"Jack","score":60}
+	]
+}

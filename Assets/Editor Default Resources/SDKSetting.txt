@@ -1,0 +1,73 @@
+chartboost插屏广告
+
+汉堡：ios
+应用 ID
+58db518cf6cd456c31005929
+应用签名
+013b7bc67ef9d723b369306b9d2fdb13c5e22b5b
+
+
+汉堡：安卓
+应用 ID
+58db51b243150f60883ffbf4
+应用签名
+68c318cd844c0ab19fed2e76b86d1431670541cb
+
+facebook
+
+appname RushBall
+
+appid 1856658037910068
+clientToken c2deea6f81fdfb95f28232a2b569f800
+
+
+google
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">485508461390</string>
+  <string name="package_name">com.gameplus.dropit</string>
+  <string name="achievement_rookie">CgkIzua81JAOEAIQCw</string>
+  <string name="achievement_amateur">CgkIzua81JAOEAIQDA</string>
+  <string name="achievement_skilled">CgkIzua81JAOEAIQDQ</string>
+  <string name="achievement_expert">CgkIzua81JAOEAIQDg</string>
+  <string name="achievement_master">CgkIzua81JAOEAIQDw</string>
+  <string name="leaderboard_best_score">CgkIzua81JAOEAIQAA</string>
+  <string name="leaderboard_easy_high_scores">CgkIzua81JAOEAIQCA</string>
+  <string name="leaderboard_hard_high_scores">CgkIzua81JAOEAIQCQ</string>
+</resources>
+
+
+
+排行榜 Score
+
+成就
+
+Rookie Amateur Skilled Expert Master
+
+金币用法
+
+内购
+
+google
+
+coin_200
+coin_500
+coin_900
+no_ads
+
+apple
+player don't need to watch banner ads,interstitial ads,video ads when game over.
+player can use the rigns buy to ball skin
+
+
+
+
+
+
+

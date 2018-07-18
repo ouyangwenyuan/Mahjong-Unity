@@ -1,0 +1,13 @@
+
+scene1_12.png
+size: 107,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scene1_0013_8
+  rotate: false
+  xy: 2, 2
+  size: 103, 178
+  orig: 103, 178
+  offset: 0, 0
+  index: -1

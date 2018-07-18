@@ -1,0 +1,139 @@
+
+panda_lose.png
+size: 1687,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_01
+  rotate: false
+  xy: 1061, 243
+  size: 384, 284
+  orig: 384, 284
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: true
+  xy: 1173, 6
+  size: 235, 280
+  orig: 235, 280
+  offset: 0, 0
+  index: -1
+ear_l
+  rotate: true
+  xy: 1061, 154
+  size: 87, 110
+  orig: 87, 110
+  offset: 0, 0
+  index: -1
+ear_r
+  rotate: false
+  xy: 1455, 65
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: true
+  xy: 1540, 12
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: false
+  xy: 1455, 2
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 713, 144
+  size: 383, 346
+  orig: 383, 346
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1640, 414
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 2, 8
+  size: 709, 519
+  orig: 709, 519
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 713, 5
+  size: 137, 176
+  orig: 137, 176
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 891, 5
+  size: 137, 176
+  orig: 137, 176
+  offset: 0, 0
+  index: -1
+mouth_01
+  rotate: false
+  xy: 1455, 146
+  size: 115, 101
+  orig: 115, 101
+  offset: 0, 0
+  index: -1
+mouth_02
+  rotate: true
+  xy: 1601, 169
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+mouth_shadow
+  rotate: true
+  xy: 1447, 249
+  size: 134, 152
+  orig: 134, 152
+  offset: 0, 0
+  index: -1
+nose_01
+  rotate: true
+  xy: 1640, 470
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+nose_02
+  rotate: true
+  xy: 1069, 32
+  size: 120, 101
+  orig: 120, 101
+  offset: 0, 0
+  index: -1
+orbit_l
+  rotate: false
+  xy: 1447, 385
+  size: 191, 142
+  orig: 191, 142
+  offset: 0, 0
+  index: -1
+orbit_r
+  rotate: true
+  xy: 1601, 273
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 1572, 88
+  size: 79, 85
+  orig: 79, 85
+  offset: 0, 0
+  index: -1

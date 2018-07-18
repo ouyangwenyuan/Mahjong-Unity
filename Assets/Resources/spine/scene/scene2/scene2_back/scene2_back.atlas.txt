@@ -1,0 +1,97 @@
+
+scene2_back.png
+size: 496,1034
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scene2_0008_3
+  rotate: true
+  xy: 229, 224
+  size: 170, 98
+  orig: 170, 98
+  offset: 0, 0
+  index: -1
+scene2_0013_8
+  rotate: false
+  xy: 2, 46
+  size: 296, 162
+  orig: 296, 162
+  offset: 0, 0
+  index: -1
+scene2_0014_9
+  rotate: false
+  xy: 304, 24
+  size: 188, 149
+  orig: 188, 149
+  offset: 0, 0
+  index: -1
+scene2_0016_11
+  rotate: true
+  xy: 2, 210
+  size: 822, 225
+  orig: 822, 225
+  offset: 0, 0
+  index: -1
+shuibo1
+  rotate: true
+  xy: 329, 175
+  size: 300, 83
+  orig: 1999, 295
+  offset: 0, 176
+  index: -1
+shuibo2
+  rotate: true
+  xy: 229, 396
+  size: 636, 84
+  orig: 1999, 295
+  offset: 107, 79
+  index: -1
+shuibo3
+  rotate: true
+  xy: 414, 268
+  size: 268, 39
+  orig: 1999, 295
+  offset: 668, 171
+  index: -1
+shuibo4
+  rotate: false
+  xy: 2, 2
+  size: 300, 42
+  orig: 1999, 295
+  offset: 831, 87
+  index: -1
+shuibo5
+  rotate: true
+  xy: 447, 585
+  size: 133, 32
+  orig: 1999, 295
+  offset: 1039, 28
+  index: -1
+shuibo6
+  rotate: true
+  xy: 315, 477
+  size: 555, 70
+  orig: 1999, 295
+  offset: 1065, 225
+  index: -1
+shuibo7
+  rotate: true
+  xy: 387, 538
+  size: 494, 58
+  orig: 1999, 295
+  offset: 1194, 107
+  index: -1
+shuibo8
+  rotate: true
+  xy: 455, 362
+  size: 221, 39
+  orig: 1999, 295
+  offset: 1387, 0
+  index: -1
+shuibo9
+  rotate: true
+  xy: 447, 720
+  size: 312, 42
+  orig: 1999, 295
+  offset: 1687, 231
+  index: -1

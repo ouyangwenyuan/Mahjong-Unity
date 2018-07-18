@@ -1,0 +1,27 @@
+
+scene3_5.png
+size: 395,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scene3_0004_3_1
+  rotate: false
+  xy: 183, 76
+  size: 210, 41
+  orig: 210, 41
+  offset: 0, 0
+  index: -1
+scene3_0005_3_2
+  rotate: false
+  xy: 2, 2
+  size: 179, 115
+  orig: 179, 115
+  offset: 0, 0
+  index: -1
+scene3_0006_3_3
+  rotate: false
+  xy: 183, 25
+  size: 194, 49
+  orig: 194, 49
+  offset: 0, 0
+  index: -1

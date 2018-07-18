@@ -1,0 +1,55 @@
+
+scene1_7.png
+size: 1673,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scene1_0014_zhuye1
+  rotate: true
+  xy: 2, 2
+  size: 212, 387
+  orig: 212, 387
+  offset: 0, 0
+  index: -1
+scene1_0015_zhuye2
+  rotate: false
+  xy: 1435, 28
+  size: 236, 186
+  orig: 236, 186
+  offset: 0, 0
+  index: -1
+scene1_0023_zhuzi_s3
+  rotate: false
+  xy: 391, 30
+  size: 305, 95
+  orig: 305, 95
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 698, 27
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+zhu_0000_zhu1
+  rotate: true
+  xy: 975, 114
+  size: 100, 458
+  orig: 100, 458
+  offset: 0, 0
+  index: -1
+zhu_0001_zhu2
+  rotate: true
+  xy: 391, 127
+  size: 87, 582
+  orig: 87, 582
+  offset: 0, 0
+  index: -1
+zhu_0002_zhu3
+  rotate: true
+  xy: 771, 54
+  size: 58, 624
+  orig: 58, 624
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1239635025911130}
+  m_IsPrefabParent: 1
+--- !u!1 &1239635025911130
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4644086182670768}
+  - component: {fileID: 114184987181563846}
+  m_Layer: 0
+  m_Name: AudioClipSet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4644086182670768
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1239635025911130}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114184987181563846
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1239635025911130}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be26e191b755685418fb6cef6d4653b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  card_remove: {fileID: 8300000, guid: f1bd3239cde53a84486c598bc6f6b31c, type: 3}
+  card_toggle: {fileID: 8300000, guid: 63c7872e9d998a74dba3de2131382d2d, type: 3}
+  win: {fileID: 8300000, guid: 0ef175376141dfa48804b884ac867440, type: 3}
+  fail: {fileID: 8300000, guid: c7c1590026a61e14eaa5c0f0a6e45afd, type: 3}
+  star1: {fileID: 8300000, guid: f9c4abd76f7813247b81a9bbec4e77eb, type: 3}
+  star2: {fileID: 8300000, guid: cb7a49272db444f48b02275176ff7dd3, type: 3}
+  star3: {fileID: 8300000, guid: 9cf27a955fbe30b4693a80ae39ffaa8b, type: 3}
+  timer: {fileID: 8300000, guid: 2373c2a8670cfee49be3158ddf27d0d1, type: 3}
+  unlock: {fileID: 8300000, guid: 34a8584e070f779448507a6b3a197c91, type: 3}
+  click_card_valid: {fileID: 8300000, guid: 5a4d3101cd6185742bd7a2abd5f3887b, type: 3}
+  click_card_invalid: {fileID: 8300000, guid: fe3760a3f3b34ac4ab8bd354822dd2b3, type: 3}
+  background1: {fileID: 8300000, guid: 01b02fd007a08d74b9c9439ab353958b, type: 3}
+  background2: {fileID: 8300000, guid: 6e24c0cf53250834caf0fef14707c388, type: 3}
+  background3: {fileID: 8300000, guid: 7ef4a55b0f964a241973c3b533c5574c, type: 3}
+  diamond_fly: {fileID: 8300000, guid: ff0dd44001645614fa0690bc3d48d8ec, type: 3}
+  combo1: {fileID: 8300000, guid: 0e18f8594b14c434d8dfab0588df1f1c, type: 3}
+  combo2: {fileID: 8300000, guid: 6f5d8ecce1379c040bb7bb917434b773, type: 3}
+  combo3: {fileID: 8300000, guid: 739e8f794f82f954a9f2474cd6bc7981, type: 3}
+  combo4: {fileID: 8300000, guid: f2a1a09652b63c34685387e9e5b6770b, type: 3}
+  combo5: {fileID: 8300000, guid: 2038d152c2984ad49b86bcdea0b01e34, type: 3}
+  combo6: {fileID: 8300000, guid: 30ce334208b70564d85120dbe1472b09, type: 3}
+  combo7: {fileID: 8300000, guid: e07a235d3f186294394cdef01710215a, type: 3}
+  combo8: {fileID: 8300000, guid: 8aad6c5301f01c34c9692df789597cba, type: 3}
+  combo9: {fileID: 8300000, guid: 79a65077361fd2748935ebc7d34ee667, type: 3}
+  combo10: {fileID: 8300000, guid: 42dece6aa749fae4595b45aa5aef94fb, type: 3}

@@ -1,0 +1,146 @@
+
+panda_win1.png
+size: 1658,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bamboo
+  rotate: false
+  xy: 394, 177
+  size: 523, 349
+  orig: 523, 349
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 919, 262
+  size: 322, 264
+  orig: 322, 264
+  offset: 0, 0
+  index: -1
+ear_l
+  rotate: false
+  xy: 1330, 6
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+ear_r
+  rotate: true
+  xy: 1235, 6
+  size: 74, 93
+  orig: 74, 93
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: true
+  xy: 1170, 50
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: true
+  xy: 1407, 11
+  size: 69, 45
+  orig: 69, 45
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 160
+  size: 390, 366
+  orig: 390, 366
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 360, 132
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+hand_down
+  rotate: true
+  xy: 1459, 265
+  size: 261, 197
+  orig: 261, 197
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 1243, 82
+  size: 444, 214
+  orig: 444, 214
+  offset: 0, 0
+  index: -1
+hand_up
+  rotate: true
+  xy: 1459, 2
+  size: 261, 150
+  orig: 261, 150
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 919, 34
+  size: 249, 226
+  orig: 249, 226
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 2, 19
+  size: 356, 139
+  orig: 356, 139
+  offset: 0, 0
+  index: -1
+mouth_01
+  rotate: true
+  xy: 1170, 119
+  size: 141, 70
+  orig: 141, 70
+  offset: 0, 0
+  index: -1
+mouth_02
+  rotate: false
+  xy: 712, 2
+  size: 115, 83
+  orig: 115, 83
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1170, 16
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+nose_light
+  rotate: false
+  xy: 586, 84
+  size: 124, 91
+  orig: 124, 91
+  offset: 0, 0
+  index: -1
+nose_shadow
+  rotate: false
+  xy: 829, 26
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+orbital_l
+  rotate: true
+  xy: 394, 3
+  size: 172, 190
+  orig: 172, 190
+  offset: 0, 0
+  index: -1
+orbital_r
+  rotate: false
+  xy: 712, 87
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+jingyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+组 172
+  rotate: false
+  xy: 2, 2
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+鲸鱼
+  rotate: false
+  xy: 2, 23
+  size: 123, 99
+  orig: 123, 99
+  offset: 0, 0
+  index: -1

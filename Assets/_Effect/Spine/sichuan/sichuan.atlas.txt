@@ -1,0 +1,20 @@
+
+sichuan.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heye
+  rotate: false
+  xy: 2, 15
+  size: 83, 40
+  orig: 83, 40
+  offset: 0, 0
+  index: -1
+shuihua
+  rotate: false
+  xy: 2, 2
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1

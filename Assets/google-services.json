@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "217406080980",
+    "firebase_url": "https://balls-d0b54.firebaseio.com",
+    "project_id": "balls-d0b54",
+    "storage_bucket": "balls-d0b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217406080980:android:0137cb33c238e06b",
+        "android_client_info": {
+          "package_name": "com.gameplus.rushball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217406080980-tl54ohpj176uke854ke2mk14srb7gjgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf8ButxwZRQ2k2OQ_xHugaZusWGxRrjW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217406080980:android:edce2f5dc93dacf4",
+        "android_client_info": {
+          "package_name": "com.fidget.spiner.hand.balls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217406080980-tl54ohpj176uke854ke2mk14srb7gjgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf8ButxwZRQ2k2OQ_xHugaZusWGxRrjW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217406080980:android:da4158785e5974b5",
+        "android_client_info": {
+          "package_name": "com.ljx.balls.vs.blocks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217406080980-tl54ohpj176uke854ke2mk14srb7gjgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf8ButxwZRQ2k2OQ_xHugaZusWGxRrjW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217406080980:android:f36179110ab363e0",
+        "android_client_info": {
+          "package_name": "com.gameplus.mahjong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217406080980-hchbtl0i3c7vud89jajcqemi2ru9npbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gameplus.mahjong",
+            "certificate_hash": "7d766cbe75717d3a7d6a917079e0c83b8c04a650"
+          }
+        },
+        {
+          "client_id": "217406080980-tl54ohpj176uke854ke2mk14srb7gjgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf8ButxwZRQ2k2OQ_xHugaZusWGxRrjW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217406080980-tl54ohpj176uke854ke2mk14srb7gjgc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "217406080980-huv0vktbe0r00emur73kh13db6m2j1el.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ljx.balls.vs.blocks"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

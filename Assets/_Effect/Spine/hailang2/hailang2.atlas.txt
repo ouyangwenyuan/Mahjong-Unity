@@ -1,0 +1,13 @@
+
+hailang2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hailang2
+  rotate: false
+  xy: 2, 2
+  size: 547, 319
+  orig: 589, 319
+  offset: 42, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+scene3_back.png
+size: 688,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scene3_0003_2
+  rotate: false
+  xy: 246, 23
+  size: 238, 141
+  orig: 238, 141
+  offset: 0, 0
+  index: -1
+scene3_0007_4_1
+  rotate: true
+  xy: 653, 11
+  size: 153, 33
+  orig: 153, 33
+  offset: 0, 0
+  index: -1
+scene3_0008_4_2
+  rotate: true
+  xy: 486, 25
+  size: 139, 122
+  orig: 139, 122
+  offset: 0, 0
+  index: -1
+scene3_0009_4_3
+  rotate: true
+  xy: 610, 5
+  size: 159, 41
+  orig: 159, 41
+  offset: 0, 0
+  index: -1
+scene3_0012_6_1
+  rotate: true
+  xy: 2, 17
+  size: 147, 242
+  orig: 147, 242
+  offset: 0, 0
+  index: -1
+scene3_0013_6_2
+  rotate: false
+  xy: 2, 2
+  size: 80, 13
+  orig: 80, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+scene2_3.png
+size: 563,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bowen
+  rotate: false
+  xy: 274, 68
+  size: 187, 35
+  orig: 187, 36
+  offset: 0, 0
+  index: -1
+qipao
+  rotate: false
+  xy: 463, 5
+  size: 98, 98
+  orig: 102, 102
+  offset: 2, 3
+  index: -1
+scene2_0009_4
+  rotate: false
+  xy: 274, 11
+  size: 145, 55
+  orig: 145, 55
+  offset: 0, 0
+  index: -1
+scene2_0009_4_2
+  rotate: false
+  xy: 2, 2
+  size: 150, 17
+  orig: 170, 79
+  offset: 10, 9
+  index: -1
+scene2_0009_4_bg
+  rotate: false
+  xy: 2, 21
+  size: 270, 82
+  orig: 2694, 1027
+  offset: 1382, 322
+  index: -1

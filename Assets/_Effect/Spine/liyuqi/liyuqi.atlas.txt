@@ -1,0 +1,13 @@
+
+liyuqi.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+鲤鱼旗
+  rotate: false
+  xy: 2, 2
+  size: 191, 71
+  orig: 191, 71
+  offset: 0, 0
+  index: -1

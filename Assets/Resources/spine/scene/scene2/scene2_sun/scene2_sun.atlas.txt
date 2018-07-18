@@ -1,0 +1,20 @@
+
+scene2_sun.png
+size: 262,231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian2
+  rotate: true
+  xy: 234, 204
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+scene2_0006_1
+  rotate: false
+  xy: 2, 2
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1

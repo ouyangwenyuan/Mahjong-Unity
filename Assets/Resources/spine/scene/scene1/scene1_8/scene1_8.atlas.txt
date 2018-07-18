@@ -1,0 +1,20 @@
+
+scene1_8.png
+size: 171,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scene1_0005_4
+  rotate: true
+  xy: 2, 38
+  size: 104, 167
+  orig: 104, 167
+  offset: 0, 0
+  index: -1
+scene1_0006_4_shadow
+  rotate: false
+  xy: 2, 2
+  size: 133, 34
+  orig: 133, 34
+  offset: 0, 0
+  index: -1

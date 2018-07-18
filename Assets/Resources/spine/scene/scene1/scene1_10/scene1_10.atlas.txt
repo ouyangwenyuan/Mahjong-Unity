@@ -1,0 +1,34 @@
+
+scene1_10.png
+size: 689,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scene1_0014_zhuye1
+  rotate: true
+  xy: 2, 2
+  size: 212, 387
+  orig: 212, 387
+  offset: 0, 0
+  index: -1
+scene1_0015_zhuye2
+  rotate: false
+  xy: 391, 28
+  size: 236, 186
+  orig: 236, 186
+  offset: 0, 0
+  index: -1
+scene1_0025_zhuzi_s5
+  rotate: true
+  xy: 629, 104
+  size: 199, 58
+  orig: 199, 58
+  offset: 0, 0
+  index: -1
+zhu_0001_zhu2
+  rotate: true
+  xy: 2, 216
+  size: 87, 582
+  orig: 87, 582
+  offset: 0, 0
+  index: -1

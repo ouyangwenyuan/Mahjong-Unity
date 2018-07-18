@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fe29cc4768d0049debc7956d8e2eeedd
+timeCreated: 1501051554
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LAIKA
+  fontNames:
+  - LAIKA
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

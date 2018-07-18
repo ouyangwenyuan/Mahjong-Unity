@@ -1,0 +1,125 @@
+
+panda_win2.png
+size: 957,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bamboo_01
+  rotate: true
+  xy: 2, 639
+  size: 387, 945
+  orig: 387, 945
+  offset: 0, 0
+  index: -1
+bamboo_02
+  rotate: false
+  xy: 870, 367
+  size: 54, 108
+  orig: 54, 108
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 635, 576
+  orig: 635, 576
+  offset: 0, 0
+  index: -1
+ear_l
+  rotate: true
+  xy: 870, 240
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+ear_r
+  rotate: true
+  xy: 683, 139
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: true
+  xy: 683, 93
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: true
+  xy: 870, 188
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 580, 370
+  size: 288, 267
+  orig: 288, 267
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 926, 411
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 870, 294
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 580, 204
+  size: 172, 164
+  orig: 172, 164
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 754, 202
+  size: 166, 114
+  orig: 166, 114
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 870, 566
+  size: 85, 71
+  orig: 85, 71
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 926, 431
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+nose_light
+  rotate: true
+  xy: 870, 477
+  size: 87, 69
+  orig: 87, 69
+  offset: 0, 0
+  index: -1
+orbital_l
+  rotate: true
+  xy: 751, 109
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+orbital_r
+  rotate: true
+  xy: 580, 107
+  size: 95, 101
+  orig: 95, 101
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+scene2_2.png
+size: 156,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scene2_0007_2
+  rotate: false
+  xy: 2, 2
+  size: 152, 138
+  orig: 152, 138
+  offset: 0, 0
+  index: -1
